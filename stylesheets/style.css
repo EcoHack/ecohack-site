@@ -255,8 +255,7 @@ div.layout section div.inner ul li a {text-indent:-9999px; line-height:0; font-s
 div.layout section div.inner ul.bronze {display:block; width:610px; margin:-20px 0 0 100px; padding:0}
 
 div.layout section div.inner ul li a.cartodb {display:block; width:186px; height:65px; background:url('../images/cartodb.png')}
-div.layout section div.inner ul li a.mailchimp {display:block; width:300px; height:110px; margin-bottom: 0; background:url('../images/mailchimp.png')}
-div.layout section div.inner ul li a.mapbox {display:block; width:65px; height: 56px; background:url('../images/mapbox.png')}
+div.layout section div.inner ul li a.climate {display:block; width:201px; height:65px; background:url('../images/tcc_logo.png')}
 div.layout section div.inner  ul li a.reddmetrics {display:block; width:140px; height:76px; background:url('../images/sprite.jpg') no-repeat -396px -89px; } 
 div.layout section div.inner  ul li a.publiclab {display:block; width:192px; height:76px; background:url('../images/sprite.jpg') no-repeat -1px -80px; margin-left: 0px;}
 
