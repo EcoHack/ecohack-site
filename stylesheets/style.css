@@ -256,6 +256,7 @@ div.layout section div.inner ul.bronze {display:block; width:610px; margin:-20px
 
 div.layout section div.inner ul li a.cartodb {display:block; width:186px; height:65px; background:url('../images/cartodb.png')}
 div.layout section div.inner ul li a.climate {display:block; width:201px; height:65px; background:url('../images/tcc_logo.png')}
+div.layout section div.inner ul li a.google {display:block; width:120px; height:39px; background:url('../images/google.png')}
 div.layout section div.inner  ul li a.reddmetrics {display:block; width:140px; height:76px; background:url('../images/sprite.jpg') no-repeat -396px -89px; } 
 div.layout section div.inner  ul li a.publiclab {display:block; width:192px; height:76px; background:url('../images/sprite.jpg') no-repeat -1px -100px; margin-left: 0px;}
 div.layout section div.inner  ul li a.seasketch {display:block; width:180px; height:37px; background:url('../images/seasketch.png') } 
