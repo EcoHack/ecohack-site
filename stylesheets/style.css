@@ -252,11 +252,12 @@ div.layout section div.inner ul {display:block; width:650px; margin:0px 0 0 40px
 div.layout section div.inner ul li {display:inline-block; margin:0 10px 0 0}
 div.layout section div.inner ul li a {text-indent:-9999px; line-height:0; font-size:0}
 
-div.layout section div.inner ul.bronze {display:block; width:610px; margin:-20px 0 0 100px; padding:0}
+div.layout section div.inner ul.bronze {display:block; width:610px; 0 0 100px; padding:0}
 
 div.layout section div.inner table td {width:250px;}
 div.layout section div.inner ul li a.climate {display:block; width:201px; height:65px; background:url('../images/tcc_logo.png')}
 div.layout section div.inner ul li a.google {display:block; width:120px; height:39px; background:url('../images/google.png')}
+div.layout section div.inner ul li a.baama {display:block; width:80px; height:80px; background:url('../images/baama.png')}
 
 div.layout section div.inner table tr td a.cartodb {display:block; width:186px; height:65px; background:url('../images/cartodb.png')}
 div.layout section div.inner table tr td a.gif {display:block; width:110px; height:35px; background:url('../images/gif.png')}
