@@ -262,6 +262,7 @@ div.layout section div.inner table td {width:250px;}
 div.layout section div.inner ul li a.climate {display:block; width:201px; height:65px; background:url('../images/tcc_logo.png')}
 div.layout section div.inner ul li a.google {display:block; width:153px; height:50px; background:url('../images/google.png'); margin-top: 15px}
 div.layout section div.inner ul li a.baama {display:block; width:80px; height:80px; background:url('../images/baama.png')}
+div.layout section div.inner ul li a.coravai {display:block; width:163px; height:80px; background:url('../images/coravai.png') no-repeat;}
 div.layout section div.inner ul li a.jetpac {display:block; width:200px; height:80px; background:url('../images/jetpac.png') no-repeat; margin-top: 19px}
 div.layout section div.inner ul li a.esri {display:block; width:171px; height:71px; background:url('../images/esri.png')}
 
